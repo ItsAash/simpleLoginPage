@@ -127,4 +127,9 @@ input {
   .left_container {
     display: none;
   }
+
+  .right_container {
+    translate: transform(-50%, -50%);
+    margin: 0 auto;
+  }
 }
